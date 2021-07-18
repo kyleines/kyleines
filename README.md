@@ -5,7 +5,7 @@ Wish me luck as I navigate the job hunt / interview process 🤞😅
 
 - 🔭 I’m currently working on securing my first job in the tech industry
 - 🌱 I’m currently learning JavaScript (it's an ongoing pursuit)
-- 👯 I’m looking to collaborate on making the world a better place
+- 👯 I’m looking to collaborate on ANYTHING, I would love the experience
 - 🤔 I’m looking for help with job leads, please 🙏
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: Check out [my site](https://kyleines.github.io) for the deets
