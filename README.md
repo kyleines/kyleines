@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Kyle and I am a recent Graduate 🎓 of the *[Treehouse Full Stack JavaScript Techdegree Program](https://teamtreehouse.com/techdegree/full-stack-javascript)*! 📜🥳 \
-Wish me luck as I navigate the job hunt / interview process 🤞😅
+My name is Kyle and I am a recent Graduate 🎓 of the *[Treehouse Full Stack JavaScript Techdegree Program](https://teamtreehouse.com/techdegree/full-stack-javascript)*! 📜 🥳 \
+Wish me luck as I navigate the job hunt / interview process 🤞 😅
 
 - 🔭 I’m currently working on securing my first job in the tech industry
 - 🌱 I’m currently learning JavaScript (it's an ongoing pursuit)
